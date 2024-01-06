@@ -1,0 +1,11 @@
+{
+    "Introduction to FaaS": ["Market growth to $24 billion by 2026", "Overview and significance"],
+    "What is FaaS?": ["Cloud computing model", "Part of serverless computing", "Used in applications like Amazon's Alexa"],
+    "How FaaS Works": ["Contrast with monolithic architecture", "Supports microservice architecture"],
+    "FaaS Services": ["Authentication, database services", "File storage, reporting"],
+    "Pros and Cons of FaaS": ["Pros: Simplifies building/deploying apps, scalable, cost-efficient", "Cons: Limited control, debugging/testing challenges"],
+    "FaaS vs. Other Cloud Services": ["Comparison with IaaS, PaaS, SaaS", "More scalable and independent function execution"],
+    "Market Trends and Vendors": ["Shift towards DevOps and cloud services", "Key vendors: AWS Lambda, Azure Functions, etc."],
+    "Best Practices for FaaS": ["Understanding limitations", "Emphasis on single-action functions"],
+    "Applicability of FaaS": ["Best for microservice architectures", "Not ideal for monolithic architectures"]
+}
